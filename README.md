@@ -1,4 +1,3 @@
-"# CRUDMVC" 
 It is an ASP.net MVC crud operations project.
 View<-Controller<->model->database operations(data access layer)
 here we use entity framework to map our class with the table in a database.
